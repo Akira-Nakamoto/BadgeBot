@@ -1,6 +1,7 @@
 <div align="center">
   <h2>Badge Bot</h2>  
   <p>Active Developer Badge Bot for NodeJS</p>
+</div>
 
 ### Requirements
 
