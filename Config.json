@@ -1,0 +1,6 @@
+{
+    "ClientID" : "ClientID/Application ID Goes Here",
+    "GuildID": "Guild ID Goes Here",
+    "Token" : "Discord Token Goes Here",
+    "ChannelID": "Bot Command Channel ID"
+}
