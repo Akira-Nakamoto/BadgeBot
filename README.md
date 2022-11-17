@@ -63,7 +63,7 @@ Run the command in a new Community Server, in the specified Channel
 <!-- License -->
 ## License
 
-Distributed under the CC0 1.0 Universal License. See the [LICENSE](https://github.com/Akira-Nakamoto/BadgeBot/LICENSE.md) file for more information.
+Distributed under the CC0 1.0 Universal License. See the [LICENSE](https://github.com/Akira-Nakamoto/BadgeBot/blob/main/LICENSE.md) file for more information.
 
 
 <!-- Contact -->
